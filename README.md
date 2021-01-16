@@ -1,3 +1,5 @@
+<h2> This is a demo php laravel application.
+
 HumHub - Social Network Kit
 ===========================
 
